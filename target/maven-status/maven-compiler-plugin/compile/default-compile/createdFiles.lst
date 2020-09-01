@@ -1,0 +1,9 @@
+cox/ryan/exerciselog/model/repositories/ExerciseJpaRepository.class
+cox/ryan/exerciselog/exceptions/ExceptionHandlerConfiguration.class
+cox/ryan/exerciselog/model/repositories/SetJpaRepository.class
+cox/ryan/exerciselog/model/Set.class
+cox/ryan/exerciselog/controller/SetRestController.class
+cox/ryan/exerciselog/ExerciseLogApplication.class
+cox/ryan/exerciselog/exceptions/NoSuchEntityException.class
+cox/ryan/exerciselog/controller/ExerciseRestController.class
+cox/ryan/exerciselog/model/Exercise.class
